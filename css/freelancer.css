@@ -204,7 +204,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
-  max-width: 400px;
+  max-width: 600px;
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -231,7 +231,7 @@ section.success {
   color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-  margin-top: -12px;
+  margin-top: -15px;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
@@ -240,7 +240,7 @@ section.success {
 #portfolio * {
   z-index: 2;
 }
-@media (min-width: 767px) {
+@media (min-width: 1500px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
