@@ -240,7 +240,7 @@ section.success {
 #portfolio * {
   z-index: 2;
 }
-@media (min-width: 1500px) {
+@media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
@@ -476,6 +476,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
+.im-centered { margin: auto; max-width: 300px;}
 .portfolio-modal .close-modal .lr {
   height: 75px;
   width: 1px;
