@@ -476,7 +476,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
-.im-centered { margin: auto; max-width: 300px;}
+
 .portfolio-modal .close-modal .lr {
   height: 75px;
   width: 1px;
